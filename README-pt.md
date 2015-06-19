@@ -25,7 +25,7 @@ Esta ação é emitida para a apresentação HTML5.
 * Um Browser moderno com suporte à WebSockets no seu celular [can i use websockets?](http://caniuse.com/#search=websockets)
 
 ## Como instalar
-Por enquanto, você deve instalar manulamente :(
+Por enquanto, você deve instalar manualmente :(
 
 Primeiro, se você não possui o node, instale-o.
 Pesquise do Google, caso você não saiba como fazer isso.
